@@ -74,7 +74,7 @@ Hi! I’m **Tanvir**, a passionate and detail-oriented **MERN Stack Developer** 
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working as a **Junior MERN Stack Developer** at [SISCOTEK](https://siscotek.com/)
+- 🔭 Currently working as a **React Developer** at [SISCOTEK](https://siscotek.com/)
 - 🌱 Constantly learning new technologies and improving my full-stack development skills
 - ⚙️ Specialized in **building full-stack web apps** using the **MERN (MongoDB, Express, React, Node)** stack
 - 🛠 Experienced with authentication, REST APIs, JWT, Firebase, and responsive UI/UX design
