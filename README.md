@@ -126,7 +126,7 @@ Hi! I’m **Tanvir**, a passionate and detail-oriented **MERN Stack Developer** 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MD-TANVIR7462&show_icons=true&theme=github_dark" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Siscotek-Tanvir&show_icons=true&theme=github_dark" height="150px" />
 </div>
 
 ---
@@ -134,7 +134,7 @@ Hi! I’m **Tanvir**, a passionate and detail-oriented **MERN Stack Developer** 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MD-TANVIR7462&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Siscotek-Tanvir&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
